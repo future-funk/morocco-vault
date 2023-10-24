@@ -1,0 +1,15 @@
+{
+  "name": "Morocco Vault",
+  "version": "1.0.0",
+  "description": "Custom houses and cars",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-plugin-deprecation": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "febuiles",
+  "license": "MIT"
+}
